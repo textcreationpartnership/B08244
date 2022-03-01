@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The abhorrence, or, Protestant observations in Dublin, upon the principles and practices of the Protestants at London</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08244</idno>
+            <idno type="STC">Wing A96</idno>
+            <idno type="STC">ESTC P2239</idno>
+            <idno type="EEBO-CITATION">64550745</idno>
+            <idno type="OCLC">ocm 64550745</idno>
+            <idno type="VID">184285</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08244)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184285)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2857:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The abhorrence, or, Protestant observations in Dublin, upon the principles and practices of the Protestants at London</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Alderman James Malone, Bookseller in Skinner Row,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Abdicraunt dominum, et abducerunt populum ad nequitiam."</note>
+                  <note>"Published Saturday February the first, 1689."</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Protestants --  Ireland --  Dublin --  Controversial literature --  Early works to 1800.</term>
+               <term>Protestants --  England --  London --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184285:1" rendition="simple:additions"/>
+            <head>The ABHORRENCE, OR, Proteſtant Obſervations in <hi>Dublin,</hi> upon the Principles and Practices of the Proteſtants at <hi>London.</hi>
+            </head>
+            <head type="sub">
+               <add>A popiſh thing und<hi rend="sup">er</hi> y<hi rend="sup">e</hi> mask of a Church of England man.</add>
+            </head>
+            <head type="sub">
+               <hi>Abdicraunt DOMINUM,</hi> et Abducerunt Populum ad Nequitiam. <add>3. April. 1690.</add>
+            </head>
+            <head type="sub">Publiſhed <hi>Saturday February</hi> the Firſt, 1689.</head>
+            <p>IN all Ages ſome Prodigies or Monſters, have appeared amongſt Mankind, that have been ingenious at the peril of the Publick, ſuch who compaſs their ends not by fairneſs and ſtrength of Argument, but by inſinuating themſelves into Mens affections by all the baſeſt Method of ſubtilty and adulati<g ref="char:EOLhyphen"/>on, which ſort of flattery is indeed a Col<g ref="char:EOLhyphen"/>lective accumulative baſeneſs, being compound<g ref="char:EOLhyphen"/>ed of the moſt ſordid, hateful qualities inci<g ref="char:EOLhyphen"/>dent to Mankind, <hi>viz.</hi> Lying Servility, and Treachery, each of which being deteſtably deformed ſingly, muſt certainly in conjunction make up a moſt loathſome ugly Gu lt. But not to trouble our ſelves to ſearch for Prece<g ref="char:EOLhyphen"/>dents in former Story, we ſee before our eyes more than ſufficient! much more than future Ages will ever credit. We behold indeed ſo much, that after one <hi>Century</hi> the truth of theſe things ſhall be taken for feigned <hi>Hyperboles,</hi> or abominable Lyes. Who will ever believe this general <hi>Defection?</hi> Who can imagine that <hi>Biſhops, Noblemen,</hi> &amp;c. would ever Harlotize that Sacred Character of <hi>Nobilitas eſt ſola atque unica Virtus,</hi> and ſuffer themſelves to be ingender'd with Treachery! Nay, that ſuch Men who bear ſo great a Character in Church and State, would ever ſee, nay aſſiſt!) ſo foul a Monſter as Treaſon to deflower their <hi>Virgin Loyalty,</hi> and at once to Rob the <hi>Glory of the Reformati<g ref="char:EOLhyphen"/>on,</hi> (the Church of <hi>England</hi>) of all her pretence to the <hi>Beauty</hi> of a moſt <hi>Pure</hi> and <hi>Primitive Chri<g ref="char:EOLhyphen"/>ſtianity.</hi> O horrid! O abominable Invitation! <hi>Religion</hi> (that Sacred Name! that true intereſt of all <hi>Chriſtians Souls</hi>) is continually abus'd to palliate and countenance the moſt abominable Undertakings: And Men of turbulent and reſt<g ref="char:EOLhyphen"/>leſs Spirits will be ſure to find, or make ſome pretences or occaſions of Quarrel under the moſt Juſt and Equal Government. But as ſuch Proceedings ſtand, in reſpect to Religion, the Reverend <hi>William Sherlock,</hi> D. D. (foreſeeing what might come to paſs, as well as what had hap<g ref="char:EOLhyphen"/>pen'd in the World) declares in a <hi>Sermon</hi> on <hi>Sept. 9th.</hi> 1683. <hi>Pap.</hi> 11. 13. <hi>There is nothing more expreſly contrary to the revealed Word of God, than Treaſonable Plots and Conſpiracies againſt Sovereign Princes: Chriſtian Religion</hi> (ſays he) <hi>is the greateſt Security of Government, both in its Precepts and Examples;</hi> it commands <hi>EVERY Soul to be ſubject to the Higher Powers,</hi> and threa<g ref="char:EOLhyphen"/>tens Eternal Damnation againſt Rebels. And (as things now ſtand) were there any true con<g ref="char:EOLhyphen"/>cernment for Religion, can We imagine that the moſt proſeſt Atheiſts! the moſt lewd pro<g ref="char:EOLhyphen"/>fligate Wretches! the greateſt Monſters, and Prodigies of Wickedneſs! (as many of our In<g ref="char:EOLhyphen"/>viters are notoriouſly known to be) ſhould be ſo Zealous for Religion? Theſe two Words (ſays the Biſhop of <hi>Ely,</hi> in a <hi>Sermon,</hi> upon the ſme day, <hi>p.</hi> 17.) of the wicked Polititian <hi>Caiaphas,</hi> Venient Romani, <hi>are effectuall Incen<g ref="char:EOLhyphen"/>tives to ſtir up the People to</hi> Cry, <hi>Cruciſie him! Crucifie him! Always</hi> (ſays that Reverend Pre<g ref="char:EOLhyphen"/>late) <hi>Popery! Popery! ſerves the turn of any great Incendiary to break through all Divine and Hu<g ref="char:EOLhyphen"/>mane Laws.</hi> And <hi>John Fitzwilliams,</hi> D. D. on that day Preaches to all Chriſtians, That <hi>Sub<g ref="char:EOLhyphen"/>jects withdrawing their Obedience from their Law<g ref="char:EOLhyphen"/>ful Prince, is a denying the Authority of God;</hi> a ſhaking off Gods Government from their Shoul<g ref="char:EOLhyphen"/>ders, that even the Almighty ſhould not Reign over them; <hi>They have not rejected</hi> Thee, but Me, <hi>that I ſhould not Reign over them,</hi> 1 Sam. 5.7. <hi>Treaſon againſt the King,</hi> (ſays this Reverend Divine) <hi>is a kind of Sacriledge, and Revolt from him, an Apoſtacy from God,</hi> and a <hi>Reſiſting him, an Oppoſing of God, Rebelling againſt him, Fight<g ref="char:EOLhyphen"/>ing with God;</hi> The ſetting up a Counterfeit Prince againſt the True One, <hi>an introducing a Plurality of Godheads,</hi> the Obeying of an Uſur<g ref="char:EOLhyphen"/>per, <hi>Idolatry; the ſlandering his Annointed, and his Footſteps, a Blaſpheming of God; the blaming his Conduct, a quarrelling with Providence,</hi> &amp;c.
+<pb n="2" facs="tcp:184285:2" rendition="simple:additions"/>To theſe may be added the Suffrage of many more, the beſt and moſt Learned of the <hi>Church</hi> of <hi>England:</hi> By which it is fully evident, our <hi>Principles,</hi> of the <hi>Principles</hi> of the <hi>Church!</hi> are for <hi>Loyalty:</hi> And I will now challenge the moſt Malicious <hi>Abdicator,</hi> even <hi>Burnet</hi> himſelf, (who has thruſt in his black Face to beſpot her Beauty) to ſhew me the contrary, otherwiſe than by the Complexion of his own accurſed Actions. And further, the Laws of our Coun<g ref="char:EOLhyphen"/>trey are in this caſe adequate to thoſe of our Re<g ref="char:EOLhyphen"/>ligion, and do attaint <hi>Thoſe</hi> that Invited the <hi>Frince</hi> of <hi>Orange</hi> of the higheſt Crime that can be committed (in reſpect to Civil Government) upon earth, and Condemn for <hi>High Treaſon</hi> thoſe that maintain the Invitation. Firſt it is a known Maxim of the Common Law, That the <hi>King of England</hi> holds his Power from, and is accountable to none but God, <hi>Rex Anglia ſub nullo niſi,</hi> tantum <hi>ſub Deo,</hi> Bracton. And by the Sta<g ref="char:EOLhyphen"/>tute Law, 25. Edw. 3. <hi>cap.</hi> 2. <hi>To compaſs or ima<g ref="char:EOLhyphen"/>gine the death of the King, Queen, or Prince of Wales. To levy War againſt the King, or adhere to his Enemies to give them Aid or Comfort within the Realm or elſewhere, is High Treaſon.</hi> And by the Statute 13. <hi>Car.</hi> 2. cap. 1. <hi>If any intend to De<g ref="char:EOLhyphen"/>poſe the King, or to levy War againſt him, or to move,</hi> [or Invite] <hi>any Strangers to Invade any of his Ma<g ref="char:EOLhyphen"/>jeſties Dominions, is alſo High Treaſon.</hi> Inviolably to keep, and Religiouſly to obſerve which Laws, all the <hi>Nobility, Lords Spiritual,</hi> as well as <hi>Lords Temporal, Clergy, Lawers,</hi> and the greateſt part of the whole <hi>Gentry</hi> of <hi>England,</hi> beſides moſt of the <hi>Tradeſmen,</hi> and <hi>inferiour</hi> ſort of People, one time or other, (upon ſome manner of occaſion) have Sworn, and upon the Holy Evangeliſts de<g ref="char:EOLhyphen"/>clared, <hi>That it is not Lawful,</hi> upon any account whatſoever, <hi>to bear Arms againſt the King, or a<g ref="char:EOLhyphen"/>gainſt</hi> any, <hi>that are in Commiſſion under him.</hi> And likewiſe, <hi>That his Majeſty</hi> James <hi>the Second, is the</hi> Only <hi>Supream Governour in all his Dominions: And that</hi> They <hi>will do their utmoſt to reſiſt</hi> Any <hi>Forreign Prince that ſhall Invade him.</hi>
+            </p>
+            <p>But alas! When I reflect upon the ſad and dreadful Complexion of the Times! when I be<g ref="char:EOLhyphen"/>hold the Monſtrous Ingratitude, and Treachery of Some, perſiſted in with ſuch an Obſtinacy as is not to be found, but in <hi>Apoſtate Angel,</hi> who cannot, and amongſt <hi>Traytors</hi> and <hi>Rebels</hi> who will not Repent.</p>
+            <p>However I ſay, ſome of Us may ſpeak for our ſelves, yet I muſt and will blame Thoſe whoſe Undutiful Actions made the firſt <hi>Scene</hi> in this <hi>Bloody Tragedy of Rebellion!</hi> Thoſe who have boldly ventur'd (upon peril of their own Dam<g ref="char:EOLhyphen"/>nation) to ſtreign a point of <hi>ſtrict Duty,</hi> and diſ<g ref="char:EOLhyphen"/>pence with the before-mentioned <hi>Laws of Con<g ref="char:EOLhyphen"/>ſcience,</hi> and of our Countrey, having nothing to plead for themſelves, but that old pernicious Principle of <hi>Doing Evil, that Good might come thereof.</hi> Our Church, the Bulwork and Glory of the Reformation! The moſt Pure and Apo<g ref="char:EOLhyphen"/>ſtolical Church upon Earth, (who as the Biſhop of <hi>Ely</hi> (in his <hi>Sermon</hi> before cited, Pag. 33.) ſays, <hi>Never takes the Sword againſt her Lawful Sovereign;</hi> was never in that Danger as now: Now is the time, ſays our Adverſaries, that Hereſy is ſwallow<g ref="char:EOLhyphen"/>ed up in Atheiſm; Now is that lamentable time, wherein with horror we behold the ſad Convul<g ref="char:EOLhyphen"/>ſions of our beloved Reformation: Our Chur<g ref="char:EOLhyphen"/>ches are now to be new Moulded into all the ſordid and ſlovenly Methods of the Coventicle, Our Epiſcopal Rites, and Juriſdictions, into all the <hi>Faces</hi> of <hi>Calviniſm</hi> and <hi>Preſbitery.</hi> And I tremble to think what Satisfaction muſt be given to the Divine Vengeance, for that vaſt effuſion of Chriſtian Blood, <hi>&amp;c.</hi> that is now like to be ſpilt in the damnable progreſs of this moſt Un<g ref="char:EOLhyphen"/>natural and Impious Rebellion.</p>
+            <p>This Paper ſhall <hi>Weekly</hi> demonſtrate our <hi>Loy<g ref="char:EOLhyphen"/>alty</hi> to the King, whom you have moſt barba<g ref="char:EOLhyphen"/>rouſly <hi>Abdicated,</hi> to the great Scandal of <hi>Chri<g ref="char:EOLhyphen"/>anity</hi> it ſelf. <hi>You</hi> ſhall upon all occaſions find us <hi>Abhorrers</hi> of this <hi>Rebellion.</hi> Our <hi>Actions</hi> ſhall ſpeak our <hi>Fidelity</hi> Sworn to <hi>James</hi> the Second, whilſt <hi>You</hi> pay your Perjur'd Allegiance to the <hi>
+                  <g ref="char:V">Ʋ</g>ſurper.</hi> And we will Now begin to ſet our ſelves heartily to do <hi>His Majeſty Right,</hi> againſt your Invaſion, in order to ſend the <hi>War</hi> home to you, who ſo Wickedly began it.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> Printed for Alderman <hi>James Malone,</hi> Bookſeller in <hi>Skinner Row.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
